@@ -1,0 +1,11 @@
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\bin\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.exe
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\bin\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.deps.json
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\bin\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.runtimeconfig.json
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\bin\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.runtimeconfig.dev.json
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\bin\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.dll
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\bin\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.pdb
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\obj\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.csprojAssemblyReference.cache
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\obj\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.AssemblyInfoInputs.cache
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\obj\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.AssemblyInfo.cs
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\obj\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.dll
+C:\Users\Sipe\source\repos\Deliverable Two for Grand Circus\Deliverable Two for Grand Circus\obj\Debug\netcoreapp3.1\Deliverable Two for Grand Circus.pdb
